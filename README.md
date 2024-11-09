@@ -21,4 +21,4 @@ Não há pré-requisitos especiais para rodar este projeto, além de um navegado
 
 1. Clone o repositório para o seu ambiente local:
    ```bash
-   git clone https://github.com/hugoalvessiq/cash-register.git
+   git clone https://github.com/hugoalvessiq/simple-cash-register.git
